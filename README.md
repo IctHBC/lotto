@@ -1,6 +1,8 @@
 Lotto
 =====
 
+![Version](https://img.shields.io/badge/Version-1.0.0-green.svg) ![Django](https://img.shields.io/badge/Python-Django-darkgreen.svg) ![Likelion](https://img.shields.io/badge/Likelion-MJU(Seoul)-informational.svg)
+
 ---
 
-로또 깃허브 리드미 실습 다시 올려봅시다 ddsfangldnas
+명지대학교(서울) 멋쟁이사자처럼 7기 교안 실습 레파지토리입니다.
