@@ -6,3 +6,5 @@ Lotto
 ---
 
 명지대학교(서울) 멋쟁이사자처럼 7기 교안 실습 레파지토리입니다.
+
+[완성본] [https://tangjinjaem-lotto.herokuapp.com](https://tangjinjaem-lotto.herokuapp.com)
